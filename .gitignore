@@ -1,0 +1,5 @@
+.idea/
+out/
+.gradle/
+gradle/
+/src/main/resources/algs4-data
